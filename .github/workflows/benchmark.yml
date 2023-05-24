@@ -1,5 +1,5 @@
 # Nom de notre workflow
-name: "Build and Commit web pages"
+name: "Benchmark Websocket"
 
 # Événements sur lesquels il doit être déclenché
 on:
